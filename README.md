@@ -1,1 +1,4 @@
 # Mr.WORDLISTER
+
+
+FOR TERMUX:
