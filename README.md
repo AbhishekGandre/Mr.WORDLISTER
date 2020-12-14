@@ -23,18 +23,18 @@
 
 
 # Instalation for Temux :
-    apt-get update -y
-    apt-get upgrade -y
-    pkg install python -y
-    pkg install python2 -y
-    pkg install git -y
-    pip install lolcat
+    apt-get update 
+    apt-get upgrade 
+    pkg install python 
+    pkg install python2 
+    pkg install python3
+    pkg install git
     git clone https://github.com/A1B2HI/Mr.WORDLISTER
     cd $HOME
     ls
     cd Mr.WORDLISTER
     ls
-    python2 Mr.WORDLISTER
+    python3 Mr.WORDLISTER
     
  # Instalation for linux :
     ls
